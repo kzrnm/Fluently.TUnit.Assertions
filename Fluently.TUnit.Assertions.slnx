@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="LICENSE" />
+  </Folder>
+  <Project Path="Debugging/Debugging.csproj" Id="ba3d25f8-365f-4282-a1ea-23465186b7cf" />
+  <Project Path="Example.Test/Example.Test.csproj" Id="c0d93afd-3f8c-4446-a085-702e41eb96d8" />
+  <Project Path="Fluently.TUnit.Assertions/Fluently.TUnit.Assertions.csproj" Id="05007051-0c96-4690-9128-1a04b8acc275" />
+</Solution>
